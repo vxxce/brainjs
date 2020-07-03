@@ -1,5 +1,6 @@
 const fs = require('fs');
 
+
 // beware, synchronous
 let getDirContents = path => {
   let files = []
